@@ -11,3 +11,7 @@ endfunction
 
 
 
+
+
+#Example of function call for this process
+#euler (f,[0,1],1,0.1)
