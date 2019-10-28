@@ -1,5 +1,4 @@
-## Copyright (C) 2019 IICT (SWE)
-## 
+  
 function  retval = euler (f,xrange,y0,h)
   x=xrange(1):h:xrange(2);
   y(1)=y0;
